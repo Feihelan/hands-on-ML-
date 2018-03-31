@@ -1,2 +1,2 @@
-# hands-on-ML-
+# Hands-on-ML-
 hands-on Machine learning with Scikit-learn &amp; TensorFlow
